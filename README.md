@@ -1,5 +1,5 @@
 # AIDE
-Aloha, I'm Eunsu Lee  
+Hello, I'm Eunsu Lee  
 I'm interested in Python, AI, BigData  
-I live you!
-Have a fun
+I love reading novels.
+I live in Gireum domitory.
